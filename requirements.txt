@@ -1,0 +1,12 @@
+# Requires-Python >=3.7,<3.11
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+numpy==2.0.2
+pandas==2.2.3
+pytorch-lightning==2.4.0
+scikit-learn==1.5.2
+statsforecast==2.0.0
+statsmodels==0.14.4
+torch==2.5.1
+tqdm==4.66.6
+zipp==3.20.2
